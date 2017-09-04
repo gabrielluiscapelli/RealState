@@ -15,3 +15,4 @@ mix.js('resources/assets/js/app.js', 'public/js')
    .sass('resources/assets/sass/app.scss', 'public/css');
 
 mix.js('node_modules/vue-resource/dist/vue-resource.min.js', 'public/js');
+mix.js('node_modules/axios/dist/axios.js', 'public/js');

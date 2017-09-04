@@ -1,5 +1,6 @@
 {
     "/js/app.js": "/js/app.js",
     "/css/app.css": "/css/app.css",
-    "/js/vue-resource.min.js": "/js/vue-resource.min.js"
+    "/js/vue-resource.min.js": "/js/vue-resource.min.js",
+    "/js/axios.js": "/js/axios.js"
 }
